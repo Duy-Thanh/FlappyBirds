@@ -15,7 +15,7 @@ The project uses 100% Java programming language
 
 # Prerequisites (For developers)
  - NetBeans IDE version 8.2 or higher
-Java Development Kit (JDK) version 8 or higher
+ - Java Development Kit (JDK) version 8 or higher
 
 # Software license
 - Software distributed under the MIT license. Please indicate the source when you distribute this software with the license attached below.
